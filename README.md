@@ -2,7 +2,7 @@
 
 Une adaptation de Windows 8.1 pour le Web !!
 
-Adresse de la version web : [Windows 8.1 pour le Web](https://wedoneofficiel.github.io/Windows-8.1-pour-le-web/).
+Adresse de la version web : [Windows 8.1 pour le Web](https://wedoneofficiel.github.io/Boot-projets-Wedone-Officiel/Windows-8.1-pour-le-web-main/index.html).
 
 Version actuelle : 1.0
 
