@@ -13,6 +13,6 @@ Maquette de conception en ligne de Microsoft Windows 8.1. Codée à l'aide des f
 
 # Blog
 ## Logiciel disponnible sous Microsoft Windows
-Une version bureau de Windows 8.1 pour le web à été développée et est dès à présent disponnible en téléchargement à cette adresse : 
+Une version bureau de Windows 8.1 pour le web à été développée et est dès à présent disponnible en téléchargement à cette adresse : https://github.com/WedoneOfficiel/Windows-8.1-pour-le-web/releases/download/v-1.0/setup.exe
 
 WedoneOfficiel - le 05/10/2022 à 19:03
