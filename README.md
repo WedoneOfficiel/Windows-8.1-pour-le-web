@@ -1,6 +1,6 @@
 # Windows 8.1 pour le web
 
-Une adaptation de Windows 8.1 pour le Web !!
+Une repdoduction graphique de Windows 8.1 pour le Web.
 
 Adresse de la version web : [Cliquez ICI pour accdéder à la page web](https://wedoneofficiel.github.io/Boot-projets-Wedone-Officiel/Windows-8.1-pour-le-web-main).
 
